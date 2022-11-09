@@ -1,3 +1,1 @@
-<?php
-    require("main.php");
-?>
+<?php include("main.html");
