@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Demo_Connect_Database.props" />
+</Project>
